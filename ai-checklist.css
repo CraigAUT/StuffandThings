@@ -1,0 +1,17 @@
+
+#ai-checklist {
+    font-family: Arial, sans-serif;
+    border: 1px solid #ddd;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 2px 2px 5px #aaa;
+}
+
+#ai-checklist h3 {
+    color: #444;
+}
+
+#ai-checklist label {
+    display: block;
+    margin: 10px 0;
+}
